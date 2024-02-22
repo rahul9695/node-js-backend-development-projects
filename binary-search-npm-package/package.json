@@ -1,0 +1,19 @@
+{
+  "name": "binary-search-array-algorithm-by-rahul-meena",
+  "version": "1.0.1",
+  "description": "binary search algorithm to find any target in an sorted array",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "binary search",
+    "api",
+    "sorting",
+    "arrays",
+    "javascript"
+  ],
+  "author": "Rahul Meena",
+  "license": "ISC"
+}
